@@ -57,7 +57,7 @@ public class TheRESTController {
     } // getCustomers
 
     private String topLevelFallback() {
-        return "Danger, Will Robinson";
+        return "Hey, Its a test";
     }
 
 }
